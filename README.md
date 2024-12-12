@@ -20,10 +20,12 @@ The **Cullinan-auto-meal-reserver** is a Python application designed to automate
    ```bash
    git clone https://github.com/mahdiahmadii/kalinan-auto-reserver-meal.git 
    ```
+2. Download tesseract exe from https://github.com/UB-Mannheim/tesseract/wiki.
+Install this exe in C:\Program Files\Tesseract-OCR
 
-2. Run the `app.py` file to make the `.env` file consist of user personal info such as *Student_Number* and *Personality_Code*
+3. Run the `app.py` file to make the `.env` file consist of user personal info such as *Student_Number* and *Personality_Code*
 
-3. Configure your OS settings to run the app on a specific time in a week
+4. Configure your OS settings to run the app on a specific time in a week
 
 To ensure the app runs at a specific time, configure your operating system settings using the methods outlined below:
 
