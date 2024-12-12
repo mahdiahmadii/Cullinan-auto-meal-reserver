@@ -41,27 +41,27 @@ crontab -e
 ### For Windows:
 Use Windows Task Scheduler to execute the program in specific times. follow the images below:
 <figure>
-    <img src="images/1.png" alt="1" />
+    <img src="images/1.png" alt="1" style="width: 50%; height: auto;" />
     <figcaption>task schedule >> Create Basic Task</figcaption>
 </figure>
 
 <figure>
-    <img src="images/2.png" alt="2" />
+    <img src="images/2.png" alt="2" style="width: 50%; height: auto;" />
     <figcaption>fill the name of task and its description</figcaption>
 </figure>
 
 <figure>
-    <img src="images/3.png" alt="3" />
+    <img src="images/3.png" alt="3" style="width: 50%; height: auto;" />
     <figcaption>select weekly and specify the exact time you want the app to reserve the meal each week.</figcaption>
 </figure>
 
 <figure>
-    <img src="images/4.png" alt="4" />
+    <img src="images/4.png" alt="4" style="width: 50%; height: auto;" />
     <figcaption>select start program</figcaption>
 </figure>
 
 <figure>
-    <img src="images/5.png" alt="5" />
+    <img src="images/5.png" alt="5"  style="width: 50%; height: auto;"/>
     <figcaption>fill the field with  path_to_app_dir\kalinan.py</figcaption>
 </figure>
 
