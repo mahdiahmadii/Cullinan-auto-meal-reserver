@@ -1,10 +1,10 @@
 
 
-# kalinan-auto-meal-reserver
-![kalinan_login](images/kalinan.png)
+# Cullinan-auto-meal-reserver
+![Cullinan_login](images/kalinan.png)
 
 # Overview
-The **kalinan-auto-meal-reserver** is a Python application designed to automate the weekly meal reservation process for Yazd University students through the Kalinan website (jeton.yazd.ac.ir). This application simplifies the meal reservation process, allowing students to focus on their studies while ensuring they have their meals already auto-reserved.
+The **Cullinan-auto-meal-reserver** is a Python application designed to automate the weekly meal reservation process for Yazd University students through the Cullinan website (jeton.yazd.ac.ir). This application simplifies the meal reservation process, allowing students to focus on their studies while ensuring they have their meals already auto-reserved.
 
 **Important:** The application still does not handle account credit charging. Please ensure that your account has sufficient credit before using the app. 
 
